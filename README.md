@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Music Player App]()**
+- 🔭 I’m currently working on **Music Player App**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
