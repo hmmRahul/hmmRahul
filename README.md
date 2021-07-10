@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ChitChat - A Chatting, Audio/Video Calling App](https://github.com/hmmRahul/ChitChat-A_Chatting_Audio-Video-calling-App)**
+- 🔭 I’m currently working on **[Music Player App]()**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
