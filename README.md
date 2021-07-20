@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects & Android Development**
 
-- 👨‍💻 All of my projects are available at **[Github Account](https://github.com/hmmRahul)**
+- 👨‍💻 All of my projects are available at my **[Github Account](https://github.com/hmmRahul)**
 
-- 📫 How to reach me **rhlydv961@gmail.com**
+- 📫 How to reach me **rhlydv7275@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
