@@ -24,8 +24,8 @@
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> </a>
-         <a href="https://flutter.dev/?gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAoqpQ_JGb-tAAkRQRaS_lkPftmae2dJOQb2F7WzVQ89ao6BsLRpmFoaArx-EALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://img.icons8.com/color/50/000000/flutter.png"/>
-        <a href="https://flutter.dev/?gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAoqpQ_JGb-tAAkRQRaS_lkPftmae2dJOQb2F7WzVQ89ao6BsLRpmFoaArx-EALw_wcB&gclsrc=aw.ds" target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png"/>
+         <a href="https://flutter.dev/?gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAoqpQ_JGb-tAAkRQRaS_lkPftmae2dJOQb2F7WzVQ89ao6BsLRpmFoaArx-EALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://img.icons8.com/color/50/000000/flutter.png"/></a>    
+        <a href="https://flutter.dev/?gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAoqpQ_JGb-tAAkRQRaS_lkPftmae2dJOQb2F7WzVQ89ao6BsLRpmFoaArx-EALw_wcB&gclsrc=aw.ds" target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
