@@ -19,11 +19,14 @@
 
 <p align="center"> 
     <a href="" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>  
+    <a href="" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png" alt="Android Studio"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/> </a> 
+    <a href="" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/swift.png" alt="swift"/> </a> 
+    <a href="" target="_blank">  <img width="96" height="96" src="https://img.icons8.com/color/96/xcode.png" alt="xCode"/> </a> 
+    <a href="" target="_blank"> <img width="64" height="64" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/> </a> 
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
-    <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
