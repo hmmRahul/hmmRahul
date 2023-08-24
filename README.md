@@ -19,7 +19,8 @@
 
 <p align="center"> 
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  
-    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  
+    <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+         <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fkotlinlang.org&psig=AOvVaw0Ob6TF2hvpuglW9VQK4Ouq&ust=1692945494780000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiA6sjX9IADFQAAAAAdAAAAABAE"/>  
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> </a>
          <a href="https://flutter.dev/?gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAoqpQ_JGb-tAAkRQRaS_lkPftmae2dJOQb2F7WzVQ89ao6BsLRpmFoaArx-EALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://img.icons8.com/color/50/000000/flutter.png"/></a>    
