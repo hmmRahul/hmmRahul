@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Software Developer at **Simform Solutions**
 
-- 👨‍💻 All of my projects are available at my **[Github Account](https://github.com/hmmRahul)**
+- 👨‍💻 All of my personal projects are available at my **[Github Account](https://github.com/hmmRahul)**
 
 - 📫 How to reach me **rhlydv7275@gmail.com**
 
