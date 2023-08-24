@@ -1,21 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul</h1>
-<h3 align="center">I'm a  passionate Application Developer from India.</h3>
+<h3 align="center">I'm a  passionate Mobile Application Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Slack Clone**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects & Application Development**
+- 🔭 I’m currently working as a Software Developer at **Simform Solutions**
 
 - 👨‍💻 All of my projects are available at my **[Github Account](https://github.com/hmmRahul)**
 
 - 📫 How to reach me **rhlydv7275@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- 🤹‍♀️ Key Skills : Programming and Coding, Presentation and Communication Skills, Adaptability, Problem Solving
+  
+- ⚡ Fun fact **I play video games and go to the GYM very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -49,10 +47,6 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
-
-<a href="https://github.com/hmmRahul/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hmmRahul&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
