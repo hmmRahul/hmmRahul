@@ -18,13 +18,11 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
+    <a href="" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> 
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>  
     <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
-     <a href="" target="_blank"> <img src="![image](https://github.com/hmmRahul/hmmRahul/assets/67095559/70b490a6-0ef7-4236-a38c-65846107bb2f)"/>  
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
     <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/android-os.png"/> </a>
-         <a href="https://flutter.dev/?gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAoqpQ_JGb-tAAkRQRaS_lkPftmae2dJOQb2F7WzVQ89ao6BsLRpmFoaArx-EALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://img.icons8.com/color/50/000000/flutter.png"/></a>    
-        <a href="https://flutter.dev/?gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAoqpQ_JGb-tAAkRQRaS_lkPftmae2dJOQb2F7WzVQ89ao6BsLRpmFoaArx-EALw_wcB&gclsrc=aw.ds" target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
